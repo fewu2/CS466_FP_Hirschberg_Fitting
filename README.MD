@@ -11,7 +11,7 @@ All subroutines within "Fitting_Hirschberg.ipynb" are novel and written by the a
 
 1) The section labelled "Testing Function- Normal Fitting Alignment" was sourced from coding portion of the first CS466 2023 Homework Assignment. This section was included for the purpose of providing the user an additional means to analyze the performance and output(s) of the authors' implementated subroutines. However, it is not actually used in the novel fitting-alignment solution in any way. Thus, the authors do not consider this section an actual part of the project, unlike the other subroutines in the file. It is included for user convinience. 
 
-2) Due to time constraints, certain input variables were reused or slightly modified from the first CS466 2023 Homework Assignment. These include short and reference sequences, as well as scoring funcitons. This reduced the time it would take to create inputs manually for validation. 
+2) Due to time constraints, certain input variables were reused or slightly modified from the first CS466 2023 Homework Assignment. These include short and reference sequences, as well as scoring funcitons. This reduced the time it would take to manually create inputs for validation. 
 
 For the rest of the file, code from the first CS466 2023 Homework Assignment was referenced at various points, but all subroutines are newly written. 
 
