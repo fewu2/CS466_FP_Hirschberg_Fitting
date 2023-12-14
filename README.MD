@@ -13,7 +13,7 @@ All subroutines within "Fitting_Hirschberg.ipynb" are novel and written by the a
 
 2) Due to time constraints, certain input variables were reused or slightly modified from the first CS466 2023 Homework Assignment. These include short and reference sequences, as well as scoring funcitons. This reduced the time it would take to create inputs manually for validation. 
 
-For the rest of the file, code from the first CS466 2023 Homework Assignmentwas referenced, but all subroutines are newly written. 
+For the rest of the file, code from the first CS466 2023 Homework Assignment was referenced at various points, but all subroutines are newly written. 
 
 ## Secondary Deliverable
 There is a secondary deliverable named "Fitting_Functions.py". It is a Python file containing all functions implemented by the authors, so that these functions can be imported into other scripts or run from the command line. This is not considered part of the main project and is included primarily for user convinience.
