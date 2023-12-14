@@ -16,7 +16,7 @@ All subroutines within "Fitting_Hirschberg.ipynb" are novel and written by the a
 For the rest of the file, code from the first CS466 2023 Homework Assignmentwas referenced, but all subroutines are newly written. 
 
 ## Secondary Deliverable
-There is a secondary deliverable named "Fitting_Functions.py". It is a Python file containing all functions implemented by the authors, so they can be imported into other scripts or run from the command line. This is not considered part of the main project and is also included primarily for user convinience.
+There is a secondary deliverable named "Fitting_Functions.py". It is a Python file containing all functions implemented by the authors, so that these functions can be imported into other scripts or run from the command line. This is not considered part of the main project and is included primarily for user convinience.
 
 ## Credits:
 This project is primarily an implementation of the Hirschberg Algorithm, first published by Dr. Dan Hirschberg in 1975. 
