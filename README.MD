@@ -7,7 +7,7 @@ This project was written on Jupyter Notebook and requires a Python enviornment t
 ## Main Deliverable: "Fitting_Hirschberg.ipynb"
 The main deliverable is a Jupyter Notebook file titled "Fitting_Hirschberg.ipynb", loosely formatted in the form of a CS466 Homework assignment. Functions, calls, inputs, and unit tests are all located within this file, as the main purpose of the overall project is to fully demonstrate the algorithm's implementaiton. Within the file are detailed markdown notes describing the rationale behind the implementaiton of each subroutine, as well as comments within the code itself. 
 
-All subroutines within "Fitting_Hirschberg.ipynb" are novel and written by the authors of this project with two exceptions, listed below.
+All code within "Fitting_Hirschberg.ipynb" is novel and written by the authors of this project with two exceptions, listed below.
 
 1) The section labelled "Testing Function- Normal Fitting Alignment" was sourced from coding portion of the first CS466 2023 Homework Assignment. This section was included for the purpose of providing the user an additional means to analyze the performance and output(s) of the authors' implementated subroutines. However, it is not actually used in the novel fitting-alignment solution in any way. Thus, the authors do not consider this section an actual part of the project, unlike the other subroutines in the file. It is included for user convinience. 
 
