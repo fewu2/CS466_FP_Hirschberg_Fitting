@@ -21,4 +21,4 @@ There is a secondary deliverable named "Fitting_Functions.py". It is a Python fi
 ## Credits:
 This project is primarily an implementation of the Hirschberg Algorithm, first published by Dr. Dan Hirschberg in 1975. 
 
-The authors of this project would like to thank Dr. Mohammed El-Kebir and the CS 466 Course Staff for creating the homework assignment referenced in the completion of this project, and also for providing the conceptual explanation of the Hirchsberg Algorithm.
+The authors of this project would like to thank Dr. Mohammed El-Kebir and the CS 466 Course Staff for creating the homework assignment referenced in the completion of this project, and also for providing conceptuals explanation of the Hirchsberg Algorithm and related ideas.
